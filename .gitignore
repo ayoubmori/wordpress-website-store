@@ -1,0 +1,15 @@
+site_files
+# Ignore uploaded media files
+site_files/wp-content/uploads/
+
+# Ignore cache and logs
+site_files/wp-content/cache/
+site_files/wp-content/debug.log
+
+# Ignore backup files
+*.zip
+*.tar.gz
+
+# Ignore system files
+.DS_Store
+Thumbs.db
