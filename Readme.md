@@ -1,9 +1,9 @@
 
 # AntiqueAura - E-commerce Website for Home, Garden, and Furniture
 
-[![AntiqueAura](https://via.placeholder.com/1000x300?text=Banner+Image)](http://antiqueaura.kesug.com/)
+[![AntiqueAura](https://via.placeholder.com/1000x300?text=Banner+Image)](https://antiqueaura.kesug.com/)
 
-**Website URL:** [AntiqueAura](http://antiqueaura.kesug.com/)
+**Website URL:** [AntiqueAura](https://antiqueaura.kesug.com/)
 
 
 
@@ -15,7 +15,7 @@ AntiqueAura is a modern, user-friendly e-commerce platform for stylish home deco
 
 ## ✨ Key Features
 - **Attractive Homepage:** Showcase of featured products and promotions.
-- **Organized Product Catalog:** Filter by categories like *Home Decor*, *Furniture*, and *Garden Essentials*.
+- **Organized Product Catalog:** Filter by categories like *Home Decor*, *Garden Decor*, and *Furniture*.
 - **Detailed Product Pages:** Clear visuals, pricing, variations (e.g., size, color), and stock availability.
 - **User-Friendly Navigation:** Intuitive menus and search filters.
 - **Shopping Cart & Checkout:** Easy-to-manage cart and seamless payment options.
@@ -129,4 +129,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 **Happy Shopping! 🛍️**
-```
