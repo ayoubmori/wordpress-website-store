@@ -1,19 +1,17 @@
-Here's the updated `README.md` file with the requested additions, including hosting, domain, SSL details, and contact information for you and your partner:
 
-```markdown
 # AntiqueAura - E-commerce Website for Home, Garden, and Furniture
 
 [![AntiqueAura](https://via.placeholder.com/1000x300?text=Banner+Image)](http://antiqueaura.kesug.com/)
 
 **Website URL:** [AntiqueAura](http://antiqueaura.kesug.com/)
 
----
+
 
 ## 📖 Project Overview
 
 AntiqueAura is a modern, user-friendly e-commerce platform for stylish home decor, garden essentials, and furniture. Built with **WordPress** and **WooCommerce**, it provides an immersive shopping experience, enabling customers to browse, filter, and purchase products with ease.
 
----
+
 
 ## ✨ Key Features
 - **Attractive Homepage:** Showcase of featured products and promotions.
@@ -23,39 +21,39 @@ AntiqueAura is a modern, user-friendly e-commerce platform for stylish home deco
 - **Shopping Cart & Checkout:** Easy-to-manage cart and seamless payment options.
 - **About & Contact Pages:** Build trust and provide customer support.
 
----
+
 
 ## 🖼️ Screenshots
 
 ### **Homepage**
 ![Homepage](demo/home.png)
 
----
+
 
 ### **Products Page**
 ![Products Page](demo/products.png)
 
----
+
 
 ### **Product Details**
 ![Product Details](demo/product.png)
 
----
+
 
 ### **Cart Page**
 ![Cart Page](demo/cart.png)
 
----
+
 
 ### **About Page**
 ![About Page](demo/about.png)
 
----
+
 
 ### **Contact Page**
 ![Contact Page](demo/contact.png)
 
----
+
 
 ## 🚀 Getting Started
 
@@ -83,7 +81,7 @@ AntiqueAura is a modern, user-friendly e-commerce platform for stylish home deco
      ```
 5. Visit the website at `https://antiqueaura.kesug.com/` or your server's domain.
 
----
+
 
 ## 🛠️ Technology Stack
 
@@ -98,20 +96,20 @@ AntiqueAura is a modern, user-friendly e-commerce platform for stylish home deco
 - **Domain:** [freedomain.com](https://www.freedomain.com) ([antiqueaura.kesug.com](http://antiqueaura.kesug.com))
 - **SSL Certificate:** Configured via InfinityFree for secure HTTPS browsing.
 
----
+
 
 ## 👥 User Roles and Permissions
 - **Admin:** Full access to manage the site.
 - **Editor:** Can manage content and edit pages.
 - **Contributor:** Can write and edit their own content.
 
----
+
 
 ## 🌟 Credits
 
 This project was developed as part of the **CMS Module** under **Pr. Brahim HMEDNA** at **Université Ibn Zohr, Agadir**.
 
----
+
 
 ## ✉️ Contact Information
 
@@ -123,7 +121,7 @@ This project was developed as part of the **CMS Module** under **Pr. Brahim HMED
 
 For inquiries, feel free to reach out!
 
----
+
 
 ## 📄 License
 
