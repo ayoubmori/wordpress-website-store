@@ -1,5 +1,5 @@
 
-# AntiqueAura - E-commerce Website for Home, Garden, and Furniture
+# AntiqueAura - E-commerce Website for Furniture, Home and Garden decor
 
 [![AntiqueAura](https://via.placeholder.com/1000x300?text=Banner+Image)](https://antiqueaura.kesug.com/)
 
